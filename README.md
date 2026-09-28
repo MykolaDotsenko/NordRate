@@ -8,6 +8,8 @@
 
 ![NordRate desktop interface](./docs/screenshots/nordrate-desktop.png)
 
+<img src="./docs/screenshots/nordrate-mobile.png" alt="NordRate mobile interface" width="390" />
+
 NordRate is intentionally smaller than my Django-based Cultural Currency Converter. Its purpose is different: show a reliable API-driven interaction without a framework or backend.
 
 ## What it does
