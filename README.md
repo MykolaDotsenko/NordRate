@@ -4,7 +4,7 @@
 
 **A dependency-free reference-rate converter built with native browser APIs.**
 
-[**Open NordRate →**](https://mykoladotsenko.github.io/NordRate/) · [Architecture](./ARCHITECTURE.md)
+[**Open the live app →**](https://mykoladotsenko.github.io/NordRate/) · [Architecture](./ARCHITECTURE.md)
 
 ![NordRate desktop interface](./docs/screenshots/nordrate-desktop.png)
 
